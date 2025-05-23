@@ -119,7 +119,7 @@ body {
         position: absolute;
         right: 0;
         top: 50px;
-        background-color: #000080;
+        background-color: #1b8a34;
         padding-right: 10px;
     }
 
@@ -164,7 +164,7 @@ body {
         position: absolute;
         right: 0;
         top: 0;
-        content: url("/HamburgerIcon.png");
+        content: url("/HamburgerIcon.jpg");
     }
 
     .hamburgerIconShow {
@@ -172,7 +172,7 @@ body {
         position: absolute;
         right: 0;
         top: 0;
-        content: url("/HamburgerIconAlt.png");
+        content: url("/HamburgerIconAlt.jpg");
     }
 
     .pictures {
