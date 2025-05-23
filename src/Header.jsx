@@ -37,6 +37,8 @@ export default function Header() {
                 <div id="mobileMenuLinks" className="mobileMenuLinks">
                     <Link to="/Home/Index" onClick={mobileMenuLinkClick}>Home</Link>
                     <br />
+                    <a href="http://machineprograms.org">Machine Programs</a>
+                    <br />
                     <Link to="/Leadership/Guidelines" onClick={mobileMenuLinkClick}>Leadership</Link>
                     <br />
                     <Link to="/Writing/Essays" onClick={mobileMenuLinkClick}>Writing</Link>
