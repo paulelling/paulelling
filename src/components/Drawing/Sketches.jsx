@@ -2,7 +2,7 @@ export default function Sketches() {
     return (
     <div>
         <div className="content">
-            When I was in junior high school and middle school, I used to draw pictures from magazines.  I have started drawing sketches again.
+            When I was in junior high school and middle school, I used to draw pictures from magazines.  I have started drawing sketches again. (Test)
             <br />
             <br />
             <br />
