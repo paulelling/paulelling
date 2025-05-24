@@ -6,7 +6,8 @@ export default function Index() {
             <br />
             <p>I have been interested in robotics since I was a kid.
                 For over 25 years, I have worked as a software developer.  In my spare time, I research leadership.
-                In high school and college, I took essay-writing seriously, which has helped me analyze code in my career as a developer.</p>
+                In high school and college, I took essay-writing seriously, which has helped me analyze code in my career as a developer.  
+                I used to like to draw pictures in junior high school and middle school.</p>
             <br />
             <p>For any questions, please contact me at <a href="mailto:paulelling@yahoo.com">paulelling@yahoo.com</a>.</p>
         </div>

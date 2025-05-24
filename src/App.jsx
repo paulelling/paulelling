@@ -3,6 +3,7 @@ import Header from './Header.jsx'
 import Home from './components/Home/Index.jsx'
 import Guidelines from './components/Leadership/Guidelines.jsx'
 import Essays from './components/Writing/Essays.jsx'
+import Sketches from './components/Drawing/Sketches.jsx'
 import Profile from './components/About/Profile.jsx'
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
                         <Route path="/Home/Index" element={<Home />} />
                         <Route path="/Leadership/Guidelines" element={<Guidelines />} />
                         <Route path="/Writing/Essays" element={<Essays />} />
+                        <Route path="/Drawing/Sketches" element={<Sketches />} />
                         <Route path="/About/Profile" element={<Profile />} />
                         <Route path="*" element={<Navigate to="/" />} />
                     </Routes>

@@ -8,33 +8,23 @@ export default function Guidelines() {
             <br />
             <br />
 
-            <a href="/Leadership Part 1.pdf">Leadership Guidelines for an Agile Team, Part 1: Process</a>
+            <a href="/Leadership Part 1.pdf">Leadership Guidelines for an Agile Team, Part 1: Preparation and Development</a>
             <br />
-            Part 1 of Leadership Guidelines reviews the process for preparing to be part of an Agile team.
+            Part 1 of Leadership Guidelines reviews the preparation and development necessary for preparing to be part of an Agile team.
 
             <br />
             <br />
 
-            <a href="/Leadership Part 2.pdf">Leadership Guidelines for an Agile Team, Part 2: Development</a>
+            <a href="/Leadership Part 2.pdf">Leadership Guidelines for an Agile Team, Part 2: Principles</a>
             <br />
-            Part 2 of Leadership Guidelines provides an overview of the technical side and project management needed to be part of an Agile team.
+            Part 2 of Leadership Guidelines discusses the principles needed to be part of an Agile team.
 
             <br />
             <br />
 
-            <a href="/Leadership Part 3.pdf">Leadership Guidelines for an Agile Team, Part 3: Principles</a>
+            <a href="/Leadership Part 3.pdf">Leadership Guidelines for an Agile Team, Part 3: More Principles</a>
             <br />
-            Part 3 of Leadership Guidelines discusses the principles needed to be part of an Agile team.
-
-            <br />
-            <br />
-
-            <a href="/Leadership Part 4.pdf">Leadership Guidelines for an Agile Team, Part 4: More Principles</a>
-            <br />
-            Part 4 of Leadership Guidelines discusses additional principles needed to be part of an Agile team.
-
-            <br />
-            <br />
+            Part 3 of Leadership Guidelines discusses additional principles needed to be part of an Agile team.
         </div>
     )
 }

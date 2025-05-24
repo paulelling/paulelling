@@ -30,6 +30,7 @@ export default function Header() {
                 <a href="http://machineprograms.org">Machine Programs</a>
                 <Link to="/Leadership/Guidelines">Leadership</Link>
                 <Link to="/Writing/Essays">Writing</Link>
+                <Link to="/Drawing/Sketches">Drawing</Link>
                 <Link to="/About/Profile">About</Link>
             </div>
             <div className="mobileMenu">
@@ -42,6 +43,8 @@ export default function Header() {
                     <Link to="/Leadership/Guidelines" onClick={mobileMenuLinkClick}>Leadership</Link>
                     <br />
                     <Link to="/Writing/Essays" onClick={mobileMenuLinkClick}>Writing</Link>
+                    <br />
+                    <Link to="Drawing/Sketches" onClick={mobileMenuLinkClick}>Drawing</Link>
                     <br />
                     <Link to="/About/Profile" onClick={mobileMenuLinkClick}>About</Link>
                 </div>
